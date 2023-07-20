@@ -1,0 +1,10 @@
+site_name: SOCO - Südost Chaos Organisation
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - About: about.md
+
+theme: # https://sphinx-rtd-theme.readthedocs.io/en/stable/configuring.html
+    name: readthedocs
+    logo: img/logo.png
+    logo_only: False
