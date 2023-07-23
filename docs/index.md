@@ -1,5 +1,5 @@
-# Welcome to SOCO - Südost Chaos Organisation
+# SOCO - Südost Chaos Organisation
 
 ![Logo](img/logo.png)
 
-Hackspaces from Süd to Ost
+SOCO ist eine Initiative der [Hackspaces](about.md) von Süd bis Ost und trägt zum besseren Austausch der einzelnen Gruppen bei.
