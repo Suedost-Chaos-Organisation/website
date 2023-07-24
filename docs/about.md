@@ -11,6 +11,7 @@ Bei uns machen Hackende aus folgenden Spaces mit:
 * [hackzogtum](https://hackzogtum-coburg.de/) (Coburg),
 * [K4CG](https://k4cg.org/) (Nürnberg),
 * [muCCC](https://www.muc.ccc.de/) (München),
+* [Munich Maker Lab](https://munichmakerlab.de/) (München),
 * [Nerd2Nerd](https://www.nerd2nerd.org/) (Würzburg),
 * [Nerdberg](https://nerdberg.de/) (Nürnberg/Fürth) und
 * [OpenLab](https://www.openlab-augsburg.de/) (Augsburg)
