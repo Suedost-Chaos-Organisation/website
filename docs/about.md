@@ -19,6 +19,7 @@ Bei uns machen Hackende und Makende aus folgenden Spaces mit:
 * [Nerd2Nerd](https://www.nerd2nerd.org/) (Würzburg)
 * [Nerdberg](https://nerdberg.de/) (Nürnberg/Fürth)
 * [OpenLab](https://www.openlab-augsburg.de/) (Augsburg)
+* [ZAM](https://zam.haus) (Erlangen)
 
 <style>
     #map { height: 500px; }
@@ -38,7 +39,7 @@ Bei uns machen Hackende und Makende aus folgenden Spaces mit:
     L.marker([49.444540, 11.848280]).bindPopup("Amborg-Solzbyte").addTo(map).addTo(spaces);
     L.marker([49.901870, 10.892710]).bindPopup("Backspace").addTo(map).addTo(spaces);
     L.marker([49.009850, 12.119020]).bindPopup("Binary Kitchen").addTo(map).addTo(spaces);
-    L.marker([49.579990, 10.972100]).bindPopup("Bits'n'Bugs").addTo(map).addTo(spaces);
+    L.marker([49.579990, 10.972100]).bindPopup("Bits'n'Bugs & ZAM").addTo(map).addTo(spaces);
     L.marker([48.766673, 11.425933]).bindPopup("bytewerk").addTo(map).addTo(spaces);
     L.marker([49.900403, 10.351335]).bindPopup("GEOLab").addTo(map).addTo(spaces);
     L.marker([50.263359, 10.966066]).bindPopup("hackzogtum").addTo(map).addTo(spaces);
