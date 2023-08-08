@@ -3,6 +3,8 @@ site_url: https://example.com/
 nav:
     - Home: index.md
     - About: about.md
+    - Events:
+        - CCCamp 2023: events/camp2023.md
 
 theme: # https://sphinx-rtd-theme.readthedocs.io/en/stable/configuring.html
     name: readthedocs
