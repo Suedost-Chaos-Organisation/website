@@ -4,6 +4,7 @@ nav:
     - Home: index.md
     - About: about.md
     - Events:
+        - 37C3: events/37c3.md
         - CCCamp 2023: events/camp2023.md
 
 theme: # https://sphinx-rtd-theme.readthedocs.io/en/stable/configuring.html
