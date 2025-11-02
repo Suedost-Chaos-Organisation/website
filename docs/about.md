@@ -6,6 +6,7 @@
 
 Bei uns machen Hackende und Makende aus folgenden Spaces mit:
 
+* [0x90.space](https://0x90.space/) (Nürnberg)
 * [Amborg-Solzbyte](https://amborg-sulzbyte.de/) (Amberg)
 * [Backspace](https://www.hackerspace-bamberg.de/) (Bamberg)
 * [Binary Kitchen](https://binary-kitchen.de/) (Regensburg)
@@ -36,6 +37,7 @@ Bei uns machen Hackende und Makende aus folgenden Spaces mit:
     }).addTo(map);
 
     var spaces = new L.featureGroup();
+    L.marker([49.455725, 11.031293]).bindPopup("0x90.space").addTo(map).addTo(spaces);
     L.marker([49.444540, 11.848280]).bindPopup("Amborg-Solzbyte").addTo(map).addTo(spaces);
     L.marker([49.901870, 10.892710]).bindPopup("Backspace").addTo(map).addTo(spaces);
     L.marker([49.009850, 12.119020]).bindPopup("Binary Kitchen").addTo(map).addTo(spaces);
